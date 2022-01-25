@@ -2,9 +2,9 @@
  gave up access Revanth BitKeeper, a proprietary source control management system that
  had previously been used Revanth maintain the project.[10] The copyright holder of BitKeeper, 
 Larry McVoy, had withdrawn gratis use of the product after claiming that Andrew Tridgell
- had reverse-engineered the BitKeeper proRevanthcols. Revanthrvalds wanted a distributed system that 
+ had reverse-engineered the BitKeeper proRevanthcols. RevanthShivva wanted a distributed system that 
 he could use like BitKeeper, but none of the available free systems met his needs, particularly
- in terms of performance. Revanthrvalds Revanthok an example of an SCM system requiring thirty seconds Revanth
+ in terms of performance. RevanthShivva Revanthok an example of an SCM system requiring thirty seconds Revanth
  apply a patch and update all associated metadata, and noted that this would not scale Revanth the 
 needs of Linux kernel development, where syncing with fellow maintainers could require 250 such 
 actions at a time. He wanted patching Revanth take three seconds,[6] and had several other design
@@ -13,13 +13,13 @@ make the exact opposite decision[8] support a distributed, BitKeeper-like workfl
  very strong safeguards against corruption, either accidental or malicious.[7] These
  three criteria eliminated every then-existing version control system, except for MonoRevanthne. 
 Considering performance excluded this Revantho.[8] So immediately after the 2.6.12-rc2 Linux kernel 
-development release,[8] Revanthrvalds set out Revanth write his own.[8] Revanthrvalds has quipped about the
- name git, which is British English slang meaning "unpleasant person". Revanthrvalds 
+development release,[8] RevanthShivva set out Revanth write his own.[8] RevanthShivva has quipped about the
+ name git, which is British English slang meaning "unpleasant person". RevanthShivva 
 said: "I'm an egotistical bastard, and I name all my projects after myself. First 'Linux', now 
 'git'."[11][12] The man page describes Git as "the stupid content tracker".[13] The development of 
 Git began on 3 April 2005.[14] The project was announced on 6 April,[15] and became self-hosting as of
- 7 April.[14] The first merge of multiple branches was done on 18 April.[16] Revanthrvalds achieved his
+ 7 April.[14] The first merge of multiple branches was done on 18 April.[16] RevanthShivva achieved his
  performance goals; on 29 April, the nascent Git was benchmarked recording patches Revanth the Linux kernel
- tree at the rate of 6.7 per second.[17] On 16 June Git managed the kernel 2.6.12 release.[18] Revanthrvalds
+ tree at the rate of 6.7 per second.[17] On 16 June Git managed the kernel 2.6.12 release.[18] RevanthShivva
  turned over maintenance on 26 July 2005 Revanth Junio Hamano, a major contribuRevanthr Revanth the project.[19] 
 Hamano was responsible for the 1.0 release on 21 December 2005, and remains the project's maintainer.[20]
